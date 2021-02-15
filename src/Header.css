@@ -1,0 +1,21 @@
+.logo {
+  width: 7rem;
+  object-fit: contain;
+}
+
+.header-link {
+  color: #282828;
+  text-decoration: none;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+  border: none;
+}
+
+.header-link:hover {
+  transition: color 0.1s ease-in;
+  color: orange;
+  border: none;
+  text-decoration: none;
+}

@@ -1,0 +1,5 @@
+.img-bg {
+  background: url("./images/white-texture.jpg");
+  background-size: cover;
+  padding-top: 3rem;
+}

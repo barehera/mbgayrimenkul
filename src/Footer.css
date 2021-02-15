@@ -1,0 +1,19 @@
+.footer-icons:hover {
+  transition: transform 0.2s ease-in;
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+.footer-link-item {
+  color: #fff;
+  font-size: 0.8rem;
+}
+
+.footer-link-item:hover {
+  transition: color 0.1s ease-in;
+  cursor: pointer;
+  color: orange;
+  font-size: 0.8rem;
+  text-decoration: none;
+  border: none;
+}

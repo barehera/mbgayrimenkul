@@ -1,0 +1,15 @@
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.adds-eleman-information-eleman {
+  font-size: 0.9rem;
+  display: flex;
+}
+
+.adds-poster:hover {
+  transition: transform 0.2s ease-in;
+  transform: scale(1.02);
+}

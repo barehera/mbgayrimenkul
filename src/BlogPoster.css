@@ -1,0 +1,5 @@
+.blog-icons:hover {
+  transition: transform 0.2s ease-in;
+  cursor: pointer;
+  transform: scale(1.2);
+}
