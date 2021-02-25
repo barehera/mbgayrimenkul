@@ -242,7 +242,7 @@ function Adds() {
                               marginBottom: "0rem",
                             }}
                           >
-                            {truncate(add.data.title, 30)}
+                            {truncate(add.data.title, 50)}
                           </Card.Title>
                         </div>
                         <Card.Text

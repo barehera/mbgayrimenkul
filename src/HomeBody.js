@@ -104,7 +104,7 @@ function HomeBody() {
               alt="First slide"
               style={{
                 width: "100%",
-                height: "88vh",
+                height: "85vh",
                 objectFit: "cover",
                 opacity: "0.2",
               }}
@@ -139,7 +139,7 @@ function HomeBody() {
               alt="First slide"
               style={{
                 width: "100%",
-                height: "88vh",
+                height: "85vh",
                 objectFit: "cover",
                 opacity: "0.2",
               }}
@@ -174,7 +174,7 @@ function HomeBody() {
               alt="First slide"
               style={{
                 width: "100%",
-                height: "88vh",
+                height: "85vh",
                 objectFit: "cover",
                 opacity: "0.2",
               }}
@@ -328,18 +328,6 @@ function HomeBody() {
                 birlikte imza atmak için <strong> MB Gayrimenkul </strong>
                 olarak sizleri ağırlamaktan ve tanışmaktan mutluluk duyarız.
               </p>
-              <Link to="/hakkimizda">
-                <Button
-                  style={{
-                    border: "none",
-                    backgroundColor: "#282828",
-                    color: "#fff",
-                    fontWeight: "700",
-                  }}
-                >
-                  Daha Fazla
-                </Button>
-              </Link>
             </Col>
           </Row>
         </Container>
@@ -444,7 +432,7 @@ function HomeBody() {
                           textAlign: "start",
                         }}
                       >
-                        {truncate(add.data.title, 45)}
+                        {truncate(add.data.title, 50)}
                       </Card.Title>
                     </div>
                     <Card.Text
